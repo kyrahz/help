@@ -22,13 +22,3 @@ I learned HTML when I was about 12 years old so all I remember is <b>how to bold
  <c>Math kind of makes me want to cry but I'm working on it.</c>
 
 
-
-
-
-
-
-
-<br>
-<U>*Oh HELL yeah I forgot about underlining.</U>
-</br>
-
