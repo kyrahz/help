@@ -5,7 +5,7 @@ Read Me (Or don't)
 Hello everybody my name is <b>Kyra Hernandez</b>. 
 <br></brI>
 <br></brI>
-I learned HTML when I was about 12 years old so all I remember is <b>how to bold things</b> and how to <i>italize them*.</i> 
+I learned HTML when I was about 12 years old so all I remember is <b>how to bold things</b> and how to <i>italize them.</i> 
 
 
 
